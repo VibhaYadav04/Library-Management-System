@@ -1,7 +1,7 @@
 # Library Management System
 A mini project using Java Swing where we need to login via username and password to go to the home page.
 In the home page, we can add a new student, add a new book, issue a book, return a book and check status of the book issued and returned and finally logout.
-Different kinds of validations are also used here.
+Different kinds of validations are also used here. All the data are stored in database and handled using MySql.
 
 # Screenshots
 ![1 login](https://github.com/VibhaYadav04/Library-Management-System/assets/110171547/9a87053d-2157-4813-9e7f-169a53c4bd2b)

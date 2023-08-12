@@ -4,13 +4,21 @@ In the home page, we can add a new student, add a new book, issue a book, return
 Different kinds of validations are also used here. All the data are stored in database and handled using MySql.
 
 # Screenshots
+Login Page
 ![1 login](https://github.com/VibhaYadav04/Library-Management-System/assets/110171547/9a87053d-2157-4813-9e7f-169a53c4bd2b)
+Home Page
 ![2 home](https://github.com/VibhaYadav04/Library-Management-System/assets/110171547/16c4420e-c513-4187-8505-f0cf3c8b9ec1)
+New Student Add
 ![3 new student](https://github.com/VibhaYadav04/Library-Management-System/assets/110171547/d963306e-ea0e-4c5c-8a60-b382ffb60a7e)
+New Book Add
 ![4 new book](https://github.com/VibhaYadav04/Library-Management-System/assets/110171547/a295508a-ec88-499a-a1d9-e35fde59d5f8)
+Issue Book
 ![5 issue book](https://github.com/VibhaYadav04/Library-Management-System/assets/110171547/2c10e0ac-3589-4c88-ae63-4c36e46c0f04)
+Return Book
 ![6 return book](https://github.com/VibhaYadav04/Library-Management-System/assets/110171547/396950cc-b250-4c54-8fe0-168aaf0aedf2)
+Statistics
 ![7 statistics](https://github.com/VibhaYadav04/Library-Management-System/assets/110171547/a74f7cdb-e6b6-4cb6-be4d-6ae66e60c053)
+Validation
 ![8 validation](https://github.com/VibhaYadav04/Library-Management-System/assets/110171547/38ea03f1-652b-4896-bf58-d45007df6d46)
 
 # Project Demo

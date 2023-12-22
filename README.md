@@ -42,7 +42,7 @@ In this page we have to enter Student ID and Book ID then we have to click on se
 In this page we can see details of issue books and return books. And it also have a button to close this apllication.
 ![7 statistics](https://github.com/VibhaYadav04/Library-Management-System/assets/110171547/a74f7cdb-e6b6-4cb6-be4d-6ae66e60c053)
 8. Validation
-9. Validations are also provided. Error is shown if incorrect data is entered.
+ Validations are also provided. Error is shown if incorrect data is entered.
 ![8 validation](https://github.com/VibhaYadav04/Library-Management-System/assets/110171547/38ea03f1-652b-4896-bf58-d45007df6d46)
 
 # Project Demo
